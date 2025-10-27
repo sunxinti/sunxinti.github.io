@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [Institute of Basic Medical Sciences (IBMS)](https://www.ibms.pumc.edu.cn/), [Chinese Academy of Medical Sciences (CAMS)](https://english.cams.cn/) & [Peking Union Medical College (PUMC)](https://www.pumc.edu.cn/), where I work in the [Long Lab](https://sites.google.com/view/erping-long-lab/).  
-I received my **Master’s degree in Surgery** from **Tianjin Medical University** in 2024 and my **Bachelor’s degree in Clinical Medicine** from **Jining Medical University** in 2021.
-
-My long-term goal is to **apply artificial intelligence to clinical medicine**, enabling everyone to benefit from safe and accessible AI-powered healthcare.
+I am a Ph.D. candidate at the [Institute of Basic Medical Sciences (IBMS)](https://www.ibms.pumc.edu.cn/), [Chinese Academy of Medical Sciences (CAMS)](https://english.cams.cn/) & [Peking Union Medical College (PUMC)](https://www.pumc.edu.cn/), where I work in the [Long Lab](https://sites.google.com/view/erping-long-lab/). I received my **Master’s degree in Surgery** from **Tianjin Medical University** in 2024 and my **Bachelor’s degree in Clinical Medicine** from **Jining Medical University** in 2021.My long-term goal is to **apply artificial intelligence to clinical medicine**, enabling everyone to benefit from safe and accessible AI-powered healthcare.
 
 Currently, I focus on **large language models (LLMs) for medical applications**. Our recent work discussed the **challenges of deploying LLMs in real-world medical settings** ([Clinical and Translational Medicine, 2025](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157)).
 
