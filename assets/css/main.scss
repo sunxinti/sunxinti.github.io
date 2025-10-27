@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* =============================
+   Custom: make profile photo circular (keep size & position)
+   ============================= */
+.author__avatar img {
+  border-radius: 50% !important;  /* 完全圆形 */
+  object-fit: cover;              /* 保持比例裁剪，不变形 */
+  width: auto !important;         /* 保持原有宽度 */
+  height: auto !important;        /* 保持原有高度 */
+  max-width: 100% !important;     /* 保持响应式不压缩 */
+  display: block;
+  margin: 0 auto;                 /* 保持居中对齐 */
+}
