@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xinti Sun （孙欣提）"
+  name             : "Xinti Sun"
   bio              : "Ph.D. Candidate at Chinese Academy of Medical Sciences (CAMS) & Peking Union Medical College (PUMC)."
   location         : "China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sunxinti@tmu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -36,14 +36,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4264-9567"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
