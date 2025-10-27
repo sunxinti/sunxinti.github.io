@@ -29,6 +29,3 @@ Currently, I lead a small research team optimizing **single-cell and spatial tra
 
 
 ---
-
-You can find me on  
-[GitHub](https://github.com/sunxinti) · [Email](mailto:your_email@example.com)
