@@ -41,29 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* =============================
-   Perfect circular avatar without distortion
-   ============================= */
-.author__avatar {
-  width: auto !important;            /* 不固定宽度，保持原图比例 */
-  height: auto !important;           /* 不固定高度，保持清晰 */
+/* === Final: perfect circular avatar without distortion === */
+.author__avatar{
+  inline-size: 220px !important;  /* 头像尺寸，可改 200–240 */
+  aspect-ratio: 1 / 1 !important; /* 强制正方形 */
+  border-radius: 50% !important;  /* 外层裁圆 */
+  overflow: hidden !important;    /* 裁掉圆外部分 */
   margin: 0 auto;
-  border-radius: 50% !important;
-  overflow: hidden;                  /* 裁掉圆外部分 */
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
-.author__avatar img {
-  max-width: 200px !important;       /* 限制最大尺寸（可调 180–220） */
+.author__avatar img{
   width: 100% !important;
-  height: auto !important;
-  border-radius: 50% !important;     /* 完全圆形 */
-  object-fit: cover;                 /* 防止变形 */
-  image-rendering: -webkit-optimize-contrast; /* 保持清晰 */
-  image-rendering: crisp-edges;
+  height: 100% !important;
+  object-fit: cover !important;   /* 填充且不变形 */
+  object-position: center center; /* 居中裁切 */
   display: block;
 }
-
 
