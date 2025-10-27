@@ -27,5 +27,3 @@ Currently, I lead a small research team optimizing **single-cell and spatial tra
 - **(09/24)** [**LungSusGene**](https://www.nature.com/articles/s41467-024-52356-9): Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes. *Nature Communications*  
 - **(04/24)** [**3S-MMR**](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2): A genetic algorithm–optimized framework for metabolic reprogramming in lung adenocarcinoma at single-cell resolution. *Journal of Translational Medicine*
 
-
----
