@@ -42,23 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 /* =============================
-   Final: fix author avatar to perfect circle
+   Final fix: larger circular avatar (original size)
    ============================= */
-
-/* 外层容器——让宽高一致，保持比例 */
 .author__avatar {
-  width: 140px !important;     /* 根据实际头像大小调整，可试 120–150 */
-  height: 140px !important;    /* 与宽度一致才能圆 */
-  margin: 0 auto;              /* 居中 */
-  overflow: hidden;            /* 隐藏超出圆形边界 */
-  border-radius: 50% !important; /* 外层也裁成圆形 */
+  width: 200px !important;     /* 调大头像宽度（原主题约180–200px） */
+  height: 200px !important;    /* 保持相同高度以确保圆形 */
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 50% !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* 可选: 轻微阴影，立体感更好 */
 }
 
-/* 内层图片——确保不被压缩 */
 .author__avatar img {
   width: 100% !important;
   height: 100% !important;
-  object-fit: cover !important; /* 按比例裁剪 */
+  object-fit: cover !important;
   border-radius: 50% !important;
   display: block;
   margin: 0 auto;
