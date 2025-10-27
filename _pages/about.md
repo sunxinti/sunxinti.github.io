@@ -12,11 +12,9 @@ I received my **Master’s degree in Surgery** from **Tianjin Medical University
 
 My long-term goal is to **apply artificial intelligence to clinical medicine**, enabling everyone to benefit from safe and accessible AI-powered healthcare.
 
-Currently, I focus on **large language models (LLMs) for medical applications**.  
-Our recent work discussed the **challenges of deploying LLMs in real-world medical settings** ([Clinical and Translational Medicine, 2025](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157)).
+Currently, I focus on **large language models (LLMs) for medical applications**. Our recent work discussed the **challenges of deploying LLMs in real-world medical settings** ([Clinical and Translational Medicine, 2025](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157)).
 
-In parallel, I also work on **single-cell omics and spatial transcriptomics**.  
-We developed a **genetic algorithm–optimized framework** to map the metabolic landscape of lung adenocarcinoma ([Journal of Translational Medicine, 2024](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2)), and created an **online prognostic platform** for lung cancer ([appLUAD](https://xintisunlab.shinyapps.io/appLUAD/)).I am also running a biotechnology company, Excellpro, based in Tianjin, China, dedicated to **optimizing single-cell and spatial transcriptomics technologies**.
+In parallel, I also work on **single-cell omics and spatial transcriptomics**. We developed a **genetic algorithm–optimized framework** to map the metabolic landscape of lung adenocarcinoma ([Journal of Translational Medicine, 2024](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2)), and created an **online prognostic platform** for lung cancer ([appLUAD](https://xintisunlab.shinyapps.io/appLUAD/)).I am also running a biotechnology company, Excellpro, based in Tianjin, China, dedicated to **optimizing single-cell and spatial transcriptomics technologies**.
 
 ---
 
