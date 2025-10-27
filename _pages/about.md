@@ -23,9 +23,10 @@ Currently, I lead a small research team optimizing **single-cell and spatial tra
 
 # News
 
-- **(01/25)** *Medial-LLM: From general to specific—Tailoring large language models for real-world medical communications.* [*Clinical and Translational Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157)  
-- **(09/24)** *Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes.* [*Nature Communications*](https://www.nature.com/articles/s41467-024-52356-9)  
-- **(04/24)** *3S-MMR: A genetic algorithm–optimized framework for metabolic reprogramming in lung adenocarcinoma at single-cell resolution.* [*Journal of Translational Medicine*](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2)
+- **(01/25)** [**Medial-LLM**](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157): Tailoring large language models for real-world medical communications. *Clinical and Translational Medicine*  
+- **(09/24)** [**LungSusGene**](https://www.nature.com/articles/s41467-024-52356-9): Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes. *Nature Communications*  
+- **(04/24)** [**3S-MMR**](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2): A genetic algorithm–optimized framework for metabolic reprogramming in lung adenocarcinoma at single-cell resolution. *Journal of Translational Medicine*
+
 
 ---
 
