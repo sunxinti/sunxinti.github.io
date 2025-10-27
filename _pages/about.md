@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
 I am a Ph.D. candidate at the [Institute of Basic Medical Sciences (IBMS)](https://www.ibms.pumc.edu.cn/), [Chinese Academy of Medical Sciences (CAMS)](https://english.cams.cn/) & [Peking Union Medical College (PUMC)](https://www.pumc.edu.cn/), where I work in the [Long Lab](https://sites.google.com/view/erping-long-lab/).  
 I received my **Master’s degree in Surgery** from **Tianjin Medical University** in 2024 and my **Bachelor’s degree in Clinical Medicine** from **Jining Medical University** in 2021.
 
@@ -23,7 +21,7 @@ Currently, I lead a small research team optimizing **single-cell and spatial tra
 
 ---
 
-## News
+# News
 
 - **(01/25)** *Medial-LLM: From general to specific—Tailoring large language models for real-world medical communications.* [*Clinical and Translational Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157)  
 - **(09/24)** *Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes.* [*Nature Communications*](https://www.nature.com/articles/s41467-024-52356-9)  
