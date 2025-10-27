@@ -41,20 +41,37 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* === Final: perfect circular avatar without distortion === */
-.author__avatar{
-  inline-size: 220px !important;  /* 头像尺寸，可改 200–240 */
-  aspect-ratio: 1 / 1 !important; /* 强制正方形 */
+/* === Final fix: force true circle & stop theme ring from stretching === */
+.author__avatar {
+  /* 尺寸自己调：200~240 之间更好看 */
+  width: 220px !important;
+  height: 220px !important;       /* 容器强制正方形 */
+  padding: 0 !important;          /* 取消内边距避免被“挤扁” */
+  margin: 0 auto;
   border-radius: 50% !important;  /* 外层裁圆 */
   overflow: hidden !important;    /* 裁掉圆外部分 */
-  margin: 0 auto;
+  position: relative;
+  display: block;
 }
 
-.author__avatar img{
+/* 主题常用的外圈是伪元素，这里一起锁成正圆并隐藏 */
+.author__avatar::before,
+.author__avatar::after {
+  content: none !important;       /* 直接去掉椭圆外圈；若想保留，把这一行删掉 */
+  /* 如果你想保留外圈而非隐藏，可以用下面三行替代上面一行：
+  position: absolute;
+  inset: 0;
+  border-radius: 50% !important;
+  */
+}
+
+/* 头像图片：铺满容器，不变形 */
+.author__avatar img {
   width: 100% !important;
   height: 100% !important;
-  object-fit: cover !important;   /* 填充且不变形 */
-  object-position: center center; /* 居中裁切 */
+  object-fit: cover !important;   /* 居中裁剪，不拉伸 */
+  object-position: center center;
+  border-radius: 50% !important;  /* 图片也裁圆，双保险 */
   display: block;
 }
 
