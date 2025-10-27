@@ -42,23 +42,28 @@
     "vendor/font-awesome/brands"
 ;
 /* =============================
-   Final fix: larger circular avatar (original size)
+   Perfect circular avatar without distortion
    ============================= */
 .author__avatar {
-  width: 200px !important;     /* 调大头像宽度（原主题约180–200px） */
-  height: 200px !important;    /* 保持相同高度以确保圆形 */
+  width: auto !important;            /* 不固定宽度，保持原图比例 */
+  height: auto !important;           /* 不固定高度，保持清晰 */
   margin: 0 auto;
-  overflow: hidden;
   border-radius: 50% !important;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* 可选: 轻微阴影，立体感更好 */
+  overflow: hidden;                  /* 裁掉圆外部分 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .author__avatar img {
+  max-width: 200px !important;       /* 限制最大尺寸（可调 180–220） */
   width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
+  height: auto !important;
+  border-radius: 50% !important;     /* 完全圆形 */
+  object-fit: cover;                 /* 防止变形 */
+  image-rendering: -webkit-optimize-contrast; /* 保持清晰 */
+  image-rendering: crisp-edges;
   display: block;
-  margin: 0 auto;
 }
+
 
