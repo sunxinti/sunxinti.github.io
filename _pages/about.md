@@ -17,7 +17,7 @@ In parallel, I also work on **single-cell omics and spatial transcriptomics**. W
 
 # News
 
-- (11/25) [MCC] Model confrontation and collaboration: a debate intelligence framework for enhancing medical reasoning in large language models. *Cell Reports Medicine* (Accepted in Principle)
+- (11/25) [MCC](https://github.com/sunxinti/MCC): Model confrontation and collaboration: a debate intelligence framework for enhancing medical reasoning in large language models. *Cell Reports Medicine* (Accepted in Principle)
 - (01/25) [Medial-LLM](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157): Tailoring large language models for real-world medical communications. *Clinical and Translational Medicine*  
 - (09/24) [LungSusGene](https://www.nature.com/articles/s41467-024-52356-9): Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes. *Nature Communications*
 - (04/24) Joined [Prof. Erping Long’s LLM Group](https://sites.google.com/view/erping-long-lab/) at CAMS/PUMC.
