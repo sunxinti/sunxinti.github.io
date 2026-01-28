@@ -17,7 +17,7 @@ In parallel, I also work on **single-cell omics and spatial transcriptomics**. W
 
 # News
 
-- (01/26) [GWASMind](https://gwasmind.com/): We’ve launched an agentic reasoning system for scalable and traceable GWAS interpretation. Welcome to try it out! https://gwasmind.com/
+- (01/26) [GWASMind](https://gwasmind.com/): We’ve launched an agentic reasoning system for scalable and traceable GWAS interpretation. Welcome to try it out! [https://gwasmind.com/](https://gwasmind.com/)
 - (01/26) [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2): Model confrontation and collaboration: a debate intelligence framework for enhancing medical reasoning in large language models. *Cell Reports Medicine*
 - (01/25) [Medial-LLM](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157): Tailoring large language models for real-world medical communications. *Clinical and Translational Medicine*  
 - (09/24) [LungSusGene](https://www.nature.com/articles/s41467-024-52356-9): Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes. *Nature Communications*
