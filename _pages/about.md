@@ -17,7 +17,7 @@ In parallel, I also work on **single-cell omics and spatial transcriptomics**. W
 
 # News
 
-- (02/26) New paper accepted by iScience! We identified KRT15 as a key stemness regulator and prognostic biomarker in ESCC using scRNA-seq and machine learning.*iScience* 
+- (02/26) New paper accepted by iScience! We identified KRT15 as a key stemness regulator and prognostic biomarker in ESCC using scRNA-seq and machine learning. *iScience* 
 - (01/26) [GWASMind](https://gwasmind.com/): We’ve launched an agentic reasoning system for scalable and traceable GWAS interpretation. Welcome to try it out! [https://gwasmind.com/](https://gwasmind.com/)
 - (01/26) Our [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2) study was featured in an interview by [Cell Press](https://mp.weixin.qq.com/s/DSDEA0N8KynJaN4wROXbAA) and reported by [PUMC](https://mp.weixin.qq.com/s/05FAxYHcqRqi_uhI3qt47Q).
 - (01/26) [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2): Model confrontation and collaboration: a debate intelligence framework for enhancing medical reasoning in large language models. *Cell Reports Medicine* 
