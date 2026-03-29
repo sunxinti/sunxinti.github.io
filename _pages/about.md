@@ -17,9 +17,9 @@ In parallel, I also work on **single-cell omics and spatial transcriptomics**. W
 
 # News
 
-- (02/26) ESCC stemness: We identified KRT15 as a key stemness regulator and prognostic biomarker in ESCC using scRNA-seq and machine learning. *iScience* 
+- (02/26) [ESCC Stemness](https://www.cell.com/iscience/fulltext/S2589-0042(26)00395-0): We identified KRT15 as a key stemness regulator and prognostic biomarker in ESCC using scRNA-seq and machine learning. *iScience* 
 - (01/26) [GWASMind](https://gwasmind.com/): We’ve launched an agentic reasoning system for scalable and traceable GWAS interpretation. Welcome to try it out! [https://gwasmind.com/](https://gwasmind.com/)
-- (01/26) Our [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2) study was featured in an interview by [Cell Press](https://mp.weixin.qq.com/s/DSDEA0N8KynJaN4wROXbAA) and reported by [PUMC](https://mp.weixin.qq.com/s/05FAxYHcqRqi_uhI3qt47Q).
+- (01/26) Our [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2) study was featured in an interview by [Cell Press](https://mp.weixin.qq.com/s/DSDEA0N8KynJaN4wROXbAA) and reported by [PUMC](https://mp.weixin.qq.com/s/LGLbY-pt_DhF8QFJZTyrFA).
 - (01/26) [MCC](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00620-2): Model confrontation and collaboration: a debate intelligence framework for enhancing medical reasoning in large language models. *Cell Reports Medicine* 
 - (01/25) [Medial-LLM](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157): Tailoring large language models for real-world medical communications. *Clinical and Translational Medicine*  
 - (09/24) [LungSusGene](https://www.nature.com/articles/s41467-024-52356-9): Context-aware single-cell multiomics approach identifies cell-type-specific lung cancer susceptibility genes. *Nature Communications*
